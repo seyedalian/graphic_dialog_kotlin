@@ -3,7 +3,7 @@
 
 
 Hi
-this abstract class  Help you to make the graphic dialog easier (this is a code of Kotlin)
+this abstract class  Help you to make the graphic dialog easier
 
 
 
