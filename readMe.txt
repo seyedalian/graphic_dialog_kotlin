@@ -3,7 +3,7 @@
 
 
 Hi
-this abstract class  Help you to make the graphic dialog easier
+this abstract class  Help you to make  graphic dialog easier
 
 
 
